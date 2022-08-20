@@ -1,2 +1,4 @@
 # FP-Minesweeper
-Final Further Programming assignment - Making Minesweeper in Java
+Final Further Programming assignment 19/20
+
+Making a Minesweeper game with a GUI using Java
